@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2014.drupalaton.hu"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Drupalaton - Diamond</title>
+ <link>http://2014.drupalaton.hu/sponsors/diamond</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Cheppers</title>
+ <link>http://2014.drupalaton.hu/cheppers</link>
+ <description>&lt;div class=&quot;field field-name-field-sponsor-logo field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://2014.drupalaton.hu/sites/default/files/cheppers_220.png&quot; width=&quot;220&quot; height=&quot;110&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://www.cheppers.com&quot; target=&quot;_blank&quot;&gt;Cheppers&lt;/a&gt; is a Hungary-based Drupal shop&amp;nbsp;working in the heart&amp;nbsp;of Budapest with an awesome team of 15&amp;nbsp;Drupal experts.&amp;nbsp;For our clients who come from Europe and North America&amp;nbsp;we provide custom Drupal solutions by developing their corporate&amp;nbsp;websites,&amp;nbsp;e-commerce sites and other web applications.&lt;/p&gt;
+&lt;p&gt;We love Drupal and we contribute modules, participate in the issue queues, post patches, edit documentation, and provide support on forums and on IRC channels. We are also regular attendees/speakers/sponsors/code sprinters at local and international Drupal events.&lt;/p&gt;
+&lt;p&gt;By sponsoring Drupalaton 2014 we would like to show our passion for the Drupal project and help the Hungarian and international communities&amp;nbsp;to share and deepen their knowledge of Drupal 8.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-web-page field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://www.cheppers.com&quot;&gt;http://www.cheppers.com&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-tax-category field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Category:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sponsors/diamond&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Diamond&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 05 Jun 2014 14:10:34 +0000</pubDate>
+ <dc:creator>zsofi.m</dc:creator>
+ <guid isPermaLink="false">7 at http://2014.drupalaton.hu</guid>
+</item>
+</channel>
+</rss>
